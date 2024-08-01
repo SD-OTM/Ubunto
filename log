@@ -4,3 +4,21 @@ common.copy stage/lib/libboost_wave.a
 ...failed updating 2 targets...
 ...skipped 6 targets...
 ...updated 1026 targets...
+
+
+
+
+
+
+
+
+
+
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+Note, selecting 'gcc-4.8-hppa64' for regex 'gcc-4.8'
+E: Unable to locate package g++-4.8
+E: Couldn't find any package by glob 'g++-4.8'
+E: Couldn't find any package by regex 'g++-4.8'
+
